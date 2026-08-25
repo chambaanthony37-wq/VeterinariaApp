@@ -1,6 +1,6 @@
 # VeterinariaApp_SinMVC - Conexión a Múltiples Bases de Datos
 
-Este repositorio contiene el desarrollo práctico para la implementación y demostración de conexiones a **7 entornos y gestores de bases de datos diferentes**, utilizando como base la aplicación JavaFX monolítica `VeterinariaApp_SinMVC` (sin arquitectura MVC).
+Este repositorio contiene el desarrollo práctico para la implementación y demostración de conexiones a 7 entornos y gestores de bases de datos diferentes, utilizando como base la aplicación JavaFX monolítica `VeterinariaApp_SinMVC`.
 
 El proyecto fue desarrollado en **IntelliJ IDEA** dentro del paquete `com.veterinaria`.
 
