@@ -6,7 +6,7 @@ El proyecto fue desarrollado en IntelliJ IDEA dentro del paquete com.veterinaria
 Estructura del Proyecto y Gestión de Conexiones
 Para cumplir con el requerimiento de trabajar sobre la misma base sin crear aplicaciones independientes, la solución se organizó de la siguiente manera:
 
-pom.xml Consolidado: Se configuró un único archivo de dependencias en la raíz con todos los conectores necesarios:
+•	pom.xml Consolidado: Se configuró un único archivo de dependencias en la raíz con todos los conectores necesarios:
 
 MySQL Connector (mysql-connector-j)
 
@@ -16,7 +16,7 @@ SQL Server JDBC (mssql-jdbc)
 
 MongoDB Java Sync Driver (mongodb-driver-sync)
 
-Carpeta de Respaldos (src/main/java/com/veterinaria/Conexiones_Evidencia/):
+•	Carpeta de Respaldos (src/main/java/com/veterinaria/Conexiones_Evidencia/):
 Se creó un directorio donde se almacenan las versiones exactas del controlador (.txt) implementadas para cada una de las 7 conexiones requeridas, permitiendo auditar las URL de conexión, credenciales y lógica específica de cada entorno:
 
 Controller_MySQL_local.txt
